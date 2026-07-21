@@ -1,6 +1,6 @@
 <html>
   <body>
-    <form>
+    <form action="From.html">
     <input type="submit" value="Result">
   </form>
   </body>
